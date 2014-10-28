@@ -37,7 +37,8 @@ grunt.initConfig({
 });
 ```
 
-The following commands are supported:
+The following configuration options are supported:
+
 * _exit
 * always-auth
 * argv
