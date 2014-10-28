@@ -1,6 +1,6 @@
 {
   "name": "grunt-npm-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Grunt wrapper for npm",
   "engines": {
     "node": ">=0.10.0"
