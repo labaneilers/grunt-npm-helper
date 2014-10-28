@@ -1,0 +1,38 @@
+{
+  "name": "grunt-npm-helper",
+  "version": "0.0.1",
+  "description": "Grunt wrapper for npm",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "npm": "~2.1.5"
+  },
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-contrib-jshint": "~0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/labaneilers/grunt-npm-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/labaneilers/grunt-npm-helper/issues"
+  },
+  "keywords": [
+    "javascript",
+    "gruntplugin",
+    "npm"
+  ],
+  "author": {
+    "name": "Laban Eilers",
+    "email": "laban@eilers.com",
+    "url": "http://www.labaneilers.com"
+  },
+  "contributors": [
+    {
+      "name": "Laban Eilers"
+    }
+  ],
+  "license": "Apache 2"
+}

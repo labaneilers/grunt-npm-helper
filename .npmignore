@@ -1,0 +1,5 @@
+assets
+test
+*.sublime-project
+*.sublime-workspace
+gruntfile.js
